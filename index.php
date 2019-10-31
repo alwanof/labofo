@@ -17,7 +17,18 @@
     <h1>Hello, world!</h1>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga quam, aperiam quos dicta, laudantium quas alias
         eveniet magnam amet deleniti quod hic. At impedit repudiandae iste blanditiis porro pariatur non!</p>
-
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio consectetur reiciendis debitis, nobis
+                esse eligendi.
+            </div>
+            <div class="col">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio consectetur reiciendis debitis, nobis
+                esse eligendi.
+            </div>
+        </div>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
