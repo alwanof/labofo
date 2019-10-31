@@ -14,9 +14,15 @@
 </head>
 
 <body>
-    <h1>Hello, world!</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga quam, aperiam quos dicta, laudantium quas alias
-        eveniet magnam amet deleniti quod hic. At impedit repudiandae iste blanditiis porro pariatur non!</p>
+    <div class="jumbotron">
+        <h1>Hello, world!</h1>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fuga quam, aperiam quos dicta, laudantium quas
+            alias
+            eveniet magnam amet deleniti quod hic. At impedit repudiandae iste blanditiis porro pariatur non!</p>
+        <div class="alert alert-primary" role="alert">
+            <strong>primary</strong> Lorem ipsum dolor sit amet.
+        </div>
+    </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
